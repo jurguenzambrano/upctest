@@ -53,11 +53,6 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Service References\UsuariosWS\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -66,40 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="Service References\UsuariosWS\Usuarios.wsdl" />
-    <None Include="Service References\UsuariosWS\Usuarios.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\UsuariosWS\Usuarios1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\UsuariosWS\Usuarios2.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\UsuariosWS\Usuarios3.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\UsuariosWS\UsuariosServicesTest.UsuariosWS.Usuario.datasource">
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\UsuariosWS\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\UsuariosWS\Usuarios.disco" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\UsuariosWS\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\UsuariosWS\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\UsuariosWS\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
-    </None>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

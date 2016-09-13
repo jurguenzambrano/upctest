@@ -1,0 +1,12 @@
+E:\proyecto\Moneder Electronico\UsuariosServices\bin\UsuariosServices.dll.config
+E:\proyecto\Moneder Electronico\UsuariosServices\bin\UsuariosServices.dll
+E:\proyecto\Moneder Electronico\UsuariosServices\bin\UsuariosServices.pdb
+E:\proyecto\Moneder Electronico\UsuariosServices\obj\Debug\UsuariosServices.csprojResolveAssemblyReference.cache
+E:\proyecto\Moneder Electronico\UsuariosServices\obj\Debug\UsuariosServices.dll
+E:\proyecto\Moneder Electronico\UsuariosServices\obj\Debug\UsuariosServices.pdb
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServices\bin\UsuariosServices.dll.config
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServices\bin\UsuariosServices.dll
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServices\bin\UsuariosServices.pdb
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServices\obj\Debug\UsuariosServices.csprojResolveAssemblyReference.cache
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServices\obj\Debug\UsuariosServices.dll
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServices\obj\Debug\UsuariosServices.pdb

@@ -1,0 +1,14 @@
+E:\proyecto\Moneder Electronico\UsuariosServicesTest\bin\Debug\UsuariosServicesTest.dll.config
+E:\proyecto\Moneder Electronico\UsuariosServicesTest\bin\Debug\UsuariosServicesTest.dll
+E:\proyecto\Moneder Electronico\UsuariosServicesTest\bin\Debug\UsuariosServicesTest.pdb
+E:\proyecto\Moneder Electronico\UsuariosServicesTest\obj\Debug\UsuariosServicesTest.csprojResolveAssemblyReference.cache
+E:\proyecto\Moneder Electronico\UsuariosServicesTest\obj\Debug\UsuariosServicesTest.dll
+E:\proyecto\Moneder Electronico\UsuariosServicesTest\obj\Debug\UsuariosServicesTest.pdb
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\bin\Debug\UsuariosServicesTest.dll.config
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\bin\Debug\UsuariosServicesTest.dll
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\bin\Debug\UsuariosServicesTest.pdb
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\obj\Debug\UsuariosServicesTest.csprojResolveAssemblyReference.cache
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\obj\Debug\UsuariosServicesTest.dll
+D:\UPC\Desarrollo para Sistemas Distribuidos\Laboratorios\Moneder Electronico\UsuariosServicesTest\obj\Debug\UsuariosServicesTest.pdb
